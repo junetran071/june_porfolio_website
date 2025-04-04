@@ -35,69 +35,6 @@
     "text": "Hi, I’m June Tran 👋\nI’m currently pursuing my Master’s in Digital Marketing Analytics at Cal Poly Pomona.\nThis website is my personal project space where I document my academic journey, explore my interests, and showcase my marketing and data work."
   },
   {
-    "objectID": "education experience.html",
-    "href": "education experience.html",
-    "title": "Education and Experience",
-    "section": "",
-    "text": "California State Polytechnic University, Pomona\n2023 – 2025 (Expected)\n\nFocus on marketing analytics, digital strategy, and AI applications.\nCapstone project: Digital marketing consulting for Kyochon Chicken U.S. expansion.\n\n\n\n\nCalifornia State Polytechnic University, Pomona\n2017 – 2021"
-  },
-  {
-    "objectID": "education experience.html#master-of-science-in-digital-marketing",
-    "href": "education experience.html#master-of-science-in-digital-marketing",
-    "title": "Education and Experience",
-    "section": "",
-    "text": "California State Polytechnic University, Pomona\n2023 – 2025 (Expected)\n\nFocus on marketing analytics, digital strategy, and AI applications.\nCapstone project: Digital marketing consulting for Kyochon Chicken U.S. expansion."
-  },
-  {
-    "objectID": "education experience.html#bachelor-of-science-in-hospitality-management",
-    "href": "education experience.html#bachelor-of-science-in-hospitality-management",
-    "title": "Education and Experience",
-    "section": "",
-    "text": "California State Polytechnic University, Pomona\n2017 – 2021"
-  },
-  {
-    "objectID": "education experience.html#marketing-intern",
-    "href": "education experience.html#marketing-intern",
-    "title": "Education and Experience",
-    "section": "Marketing Intern",
-    "text": "Marketing Intern\nKyochon Chicken – U.S. Expansion Project\nJan 2025 – Present | Pomona, CA\n\nCollaborated on digital marketing strategy for U.S. market entry.\nConducted competitive research and sentiment analysis on Yelp and Google Reviews.\nLed development of customer personas and survey design."
-  },
-  {
-    "objectID": "education experience.html#outreach-recruitment-specialist",
-    "href": "education experience.html#outreach-recruitment-specialist",
-    "title": "Education and Experience",
-    "section": "Outreach & Recruitment Specialist",
-    "text": "Outreach & Recruitment Specialist\nCollins College of Hospitality Management\nAug 2023 – Present | Pomona, CA\n\nCreated content for social media and website to recruit prospective students.\nHighlighted alumni success stories and managed survey campaigns.\nEnhanced SEO and engagement metrics through strategic content planning."
-  },
-  {
-    "objectID": "education experience.html#job-title-placeholder",
-    "href": "education experience.html#job-title-placeholder",
-    "title": "Education and Experience",
-    "section": "[Job Title Placeholder]",
-    "text": "[Job Title Placeholder]\n[Company Name]\n[Start Date] – [End Date] | [Location]\n\n[Responsibility or achievement #1]\n[Responsibility or achievement #2]\n[Responsibility or achievement #3]"
-  },
-  {
-    "objectID": "education experience.html#job-title-placeholder-1",
-    "href": "education experience.html#job-title-placeholder-1",
-    "title": "Education and Experience",
-    "section": "[Job Title Placeholder]",
-    "text": "[Job Title Placeholder]\n[Company Name]\n[Start Date] – [End Date] | [Location]\n\n[Responsibility or achievement #1]\n[Responsibility or achievement #2]\n[Responsibility or achievement #3]"
-  },
-  {
-    "objectID": "mdm/marketing-analytics.html",
-    "href": "mdm/marketing-analytics.html",
-    "title": "Marketing Analytics",
-    "section": "",
-    "text": "This section includes course projects and case studies involving: - SQL queries - Regression models - A/B testing - Customer segmentation"
-  },
-  {
-    "objectID": "mdm/presentation.html",
-    "href": "mdm/presentation.html",
-    "title": "Presentation",
-    "section": "",
-    "text": "Explore selected presentations from my Digital Marketing coursework.\nThese slides are viewable directly on this page — no downloads needed!"
-  },
-  {
     "objectID": "education.html",
     "href": "education.html",
     "title": "Education and Experience",
@@ -145,5 +82,19 @@
     "title": "Education and Experience",
     "section": "[Job Title Placeholder]",
     "text": "[Job Title Placeholder]\n[Company Name]\n[Start Date] – [End Date] | [Location]\n\n[Responsibility or achievement #1]\n[Responsibility or achievement #2]\n[Responsibility or achievement #3]"
+  },
+  {
+    "objectID": "mdm/marketing-analytics.html",
+    "href": "mdm/marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "This section includes course projects and case studies involving: - SQL queries - Regression models - A/B testing - Customer segmentation"
+  },
+  {
+    "objectID": "mdm/presentation.html",
+    "href": "mdm/presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Explore selected presentations from my Digital Marketing coursework.\nThese slides are viewable directly on this page — no downloads needed!"
   }
 ]
